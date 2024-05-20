@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Steps-2thTrainingReactTask/static/css/main.29b0e223.css",
+    "main.js": "/Steps-2thTrainingReactTask/static/js/main.a35c42f8.js",
+    "index.html": "/Steps-2thTrainingReactTask/index.html",
+    "main.29b0e223.css.map": "/Steps-2thTrainingReactTask/static/css/main.29b0e223.css.map",
+    "main.a35c42f8.js.map": "/Steps-2thTrainingReactTask/static/js/main.a35c42f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29b0e223.css",
+    "static/js/main.a35c42f8.js"
+  ]
+}
